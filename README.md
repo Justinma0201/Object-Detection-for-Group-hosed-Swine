@@ -1,5 +1,4 @@
 # Object-Detection-for-Group-hosed-Swine
-# 114065448 通訊碩一 馬暐翔 HW1 Object Detection
 
 ## 安裝與準備（以下指令皆假設當前資料夾為 `HW1_114064558/`）
 
